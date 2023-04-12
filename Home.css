@@ -1,0 +1,25 @@
+.container {
+    background-image: url("https://images.pexels.com/photos/937782/pexels-photo-937782.jpeg?auto=compress&cs=tinysrgb&w=600");
+
+    background-repeat: no-repeat;
+    object-fit: cover;
+    background-size: cover;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+
+}
+button
+{
+    font-size: x-large;
+    padding: 1%;
+    width: 30%;
+    margin-top: 3%;
+    border: none;
+
+    background-color: #DE483A;
+    cursor: pointer;
+    box-shadow: 0px 0px 8px 8px rgb(5, 101, 69);
+}
